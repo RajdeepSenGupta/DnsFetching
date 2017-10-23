@@ -1,0 +1,11 @@
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\bin\Debug\netcoreapp2.0\DnsFetching.deps.json
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\bin\Debug\netcoreapp2.0\DnsFetching.runtimeconfig.json
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\bin\Debug\netcoreapp2.0\DnsFetching.runtimeconfig.dev.json
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\bin\Debug\netcoreapp2.0\DnsFetching.dll
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\bin\Debug\netcoreapp2.0\DnsFetching.pdb
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\obj\Debug\netcoreapp2.0\DnsFetching.csprojResolveAssemblyReference.cache
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\obj\Debug\netcoreapp2.0\DnsFetching.csproj.CoreCompileInputs.cache
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\obj\Debug\netcoreapp2.0\DnsFetching.AssemblyInfoInputs.cache
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\obj\Debug\netcoreapp2.0\DnsFetching.AssemblyInfo.cs
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\obj\Debug\netcoreapp2.0\DnsFetching.dll
+C:\Users\rajdeep\Desktop\Raj\DnsFetching\DnsFetching\obj\Debug\netcoreapp2.0\DnsFetching.pdb
