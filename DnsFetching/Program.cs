@@ -19,7 +19,6 @@ namespace DnsFetching
             {
                 Console.WriteLine(e.Message);
             }
-
             Console.ReadLine();
         }
     }
